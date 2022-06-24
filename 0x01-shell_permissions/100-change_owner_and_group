@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent betty:chgrp hello staff
+chown vincent betty:staff ./*
